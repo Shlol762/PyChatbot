@@ -1,7 +1,5 @@
-PyLangProcessor
+PyChatbot
 ====
-
-A bundle of RegEx and Conditionals with
-appropriate responses to most english inputs written in Python.
+Deep learning based chatbot in python.
 
 
